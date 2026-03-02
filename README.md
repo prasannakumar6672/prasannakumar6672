@@ -1,60 +1,93 @@
-<h1 align="center">Prasanna Kumar</h1>
+<h1 align="center">Hi 👋, I'm Chirragonii Prasanna Kumar</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | System Builder</h3>
+
 <p align="center">
-Software Developer • AI/ML Enthusiast • Problem Solver
+  <a href="https://www.linkedin.com/in/prashuyadav360">LinkedIn</a> •
+  <a href="mailto:prashuyadav360@gmail.com">Email</a> •
+  <a href="https://github.com/prashuyadav360">GitHub</a>
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am a Computer Science undergraduate (AI & ML) focused on building scalable software systems and integrating machine learning into real-world applications.
+- 🎓 B.Tech CSE (AI & ML) — 3rd Year  
+- 🏗 Currently building a **House Cost Estimation + 3D Design System**
+- ⚙ Strong in Backend Architecture (Node.js, MongoDB)
+- 🤖 Interested in AI systems solving real-world infrastructure problems
+- ☁ AWS Certified (Data Engineering & Cloud Foundation)
 
-Currently strengthening core problem-solving skills through structured Data Structures & Algorithms practice while rebuilding systems independently to deepen implementation expertise.
-
----
-
-## Tech Stack
-
-**Languages**  
-Java • Python • JavaScript • SQL  
-
-**Full Stack Development**  
-React.js • Next.js • Node.js • Express.js  
-REST APIs • JWT Authentication • MVC Architecture  
-
-**Databases**  
-MongoDB • MySQL  
-
-**AI / ML**  
-TensorFlow (LSTM) • Data Preprocessing • Model Integration  
-
-**Tools**  
-Git • GitHub • VS Code • Cloudinary  
+I focus on building systems that combine:
+> Backend logic + Data + Visualization + Real-world use cases
 
 ---
 
-## Selected Projects
+## 🛠 Tech Stack
 
-**AI-Powered Road Damage Detection System**  
-Full-stack civic complaint platform with AI-based pothole detection and severity scoring.  
-Tech: React, Node.js, MongoDB, JWT, Roboflow API  
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 
-**Vital Agent – Health Risk Prediction System**  
-Time-series health risk prediction using LSTM with real-time inference integration.  
-Tech: Python, TensorFlow, REST APIs  
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+### 🧩 Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## Current Focus
+## 🚀 Featured Projects
 
-- Mastering Data Structures & Algorithms  
-- Writing cleaner, modular backend systems  
-- Exploring deeper ML model optimization  
-- Improving independent coding ability  
+### 🏗 House Cost Estimation with 3D Visualization
+- Dynamic state-based material cost calculation
+- Backend-driven pricing engine
+- Construction phase timeline estimation
+- 2D → 3D model generation (Three.js)
+- Contractor bidding system
+
+> Built as a scalable full-stack system.
 
 ---
 
-## Connect
+### 📩 Spam Mail Detection (ML)
+- NLP preprocessing
+- Feature extraction (TF-IDF)
+- Supervised classification
+- Deployed model evaluation metrics
 
-Email: prasannakumar6672@gmail.com  
-LinkedIn: https://linkedin.com/in/prashuyadav360
+---
+
+### 🎬 Movie Recommendation System
+- Collaborative filtering
+- Similarity-based ranking
+- Personalized output generation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashuyadav360&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🧩 What I'm Currently Working On
+
+- Improving system architecture
+- Learning scalable backend design
+- Integrating AI into full-stack products
+
+---
+
+## 💬 Philosophy
+
+> “Don’t build projects for resumes.  
+> Build systems that solve problems.”
