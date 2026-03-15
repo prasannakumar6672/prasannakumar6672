@@ -43,7 +43,7 @@
 <tr>
 <td width="54%" valign="top">
 
-### 👾 `whoami`
+### 👾 `who am i`
 ```bash
 ┌──(prasanna㉿universe)-[~]
 └─$ cat about_me.json
@@ -68,7 +68,7 @@
 🌱 **Learning** → LLM Integration + Scalable Architecture  
 💬 **Ask me** → Node.js · React · Python · AWS · ML  
 🎯 **Goal** → AI systems with real-world impact  
-📬 **Mail** → prashuyadav360@gmail.com  
+📬 **Mail** → prasannakumar6672@gmail.com  
 
 <br/>
 
@@ -244,67 +244,10 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                🐍 SNAKE CONTRIBUTION                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasannakumar6672/prasannakumar6672/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasannakumar6672/prasannakumar6672/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/prasannakumar6672/prasannakumar6672/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-  </picture>
-</div>
+    
 
-<details>
-<summary>⚙️ <b>Click here — How to Enable Snake Animation</b></summary>
-<br/>
-
-Create file: `.github/workflows/snake.yml`
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: prasannakumar6672
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               🎵 SPOTIFY NOW PLAYING                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎵 Now Playing on Spotify</h2>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a960fe&bar_color_cover=true" width="380"/>
-  </a>
-  <br/><br/>
-  <sub>👉 Go to <a href="https://spotify-github-profile.vercel.app">spotify-github-profile.vercel.app</a> → Login with Spotify → Copy your UID → Replace <code>YOUR_SPOTIFY_UID</code> above</sub>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  💬 DEV QUOTE + JOKE                   -->
@@ -341,21 +284,8 @@ jobs:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                ☕ SUPPORT / BUY ME COFFEE              -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">☕ Support My Work</h2>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/prasannakumar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="65" width="240"/>
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!-a960fe?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    👁️ PROFILE VIEWS                    -->
